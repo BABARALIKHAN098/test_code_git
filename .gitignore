@@ -1,0 +1,29 @@
+﻿# PyTorch / Python
+git add .gitignore
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyTorch specific
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+logs/
+runs/
+
+# VSCode
+.vscode/
